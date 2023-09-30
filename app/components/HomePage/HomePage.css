@@ -1,0 +1,23 @@
+.animate {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: -15%;
+    left: 40%;
+    transform: translate(20%, 20%);
+    background-image: url(/Dizziness.png);
+    transform: scale(1);    
+    animation: play 1.5s steps(4) infinite;
+}
+
+@keyframes play {
+   from { background-position:    0px; }
+     to { background-position: -1024px; }
+}
+
+  
+  
+  
+  
+  
+  

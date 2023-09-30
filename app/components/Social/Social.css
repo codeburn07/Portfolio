@@ -1,0 +1,8 @@
+.text-stroke {
+  -webkit-text-stroke: var(--text-stroke-width, 1px)
+    var(--text-stroke-color, currentColor);
+  text-stroke: var(--text-stroke-width, 1px)
+    var(--text-stroke-color, currentColor);
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
