@@ -13,7 +13,7 @@ const Social = () => {
       <p className="font-extrabold text-md dark:text-primaryGreen">
         LET'S CONNECT-
       </p>
-      <div className="flex absolute flex-col font-[450] text-sm items-center gap-3 ">
+      <div className="flex absolute -z-1 flex-col font-[450] text-sm items-center gap-2 max-xl:gap-0">
         <div className="pt-10">
           <div className="flex gap-2">
             <svg
@@ -30,7 +30,7 @@ const Social = () => {
             <p>design.rajveer@gmail.com</p>
           </div>
         </div>
-        <div className="flex gap-2">
+        <div className="flex gap-2 z-10">
           <Link href="/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -73,7 +73,7 @@ const Social = () => {
         </div>
       </div>
       <div className="absolute">
-        <p className="font-black text-[10.5rem] text-stroke">THANK YOU!</p>
+        <p className="font-black text-[10.5rem] text-stroke max-xl:text-[5.25rem] max-sm:text-[3.5rem] ">THANK YOU!</p>
       </div>
       <div className=" relative h-screen w-80">
         <div className="absolute inset-x-0 bottom-0">

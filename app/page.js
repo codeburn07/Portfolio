@@ -6,7 +6,7 @@ import Header from "./components/ThemeButton";
 export default function Home({ Component, pageProps }) {
   return (
     <div className="">
-      <Header/>
+      <Header />
       <HomePage />
       <Resume />
       <WorkExp />
@@ -14,4 +14,3 @@ export default function Home({ Component, pageProps }) {
     </div>
   );
 }
-

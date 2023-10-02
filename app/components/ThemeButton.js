@@ -11,7 +11,7 @@ const Header = () => {
   if (!mount) return null;
   return (
     <div
-      className={`flex justify-between py-[2rem] px-[5rem] sticky top-0 -mt-[7rem] ${
+      className={`flex justify-between py-[2rem] px-[5rem] sticky top-0 -mt-[7rem] max-sm:px-2 ${
         theme === "dark" ? "light" : "dark"
       } z-10`}
     >

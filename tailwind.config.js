@@ -16,7 +16,7 @@ module.exports = {
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
         abril: ['Abril Fatface','cursive'],
-        autograph: ['Autograf PERSONAL USE ONLY', 'sans-serif']
+        rubic: ['Rubik Glitch', 'cursive'],
       },
       colors:{
         primaryGreen: "#29BF12",

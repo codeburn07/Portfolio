@@ -7,7 +7,7 @@ const WorkExp = () => {
   const [activeTab, setActiveTab] = useState("experience");
 
   return (
-    <div className="flex justify-center flex-col items-center gap-4">
+    <div className="flex justify-center flex-col items-center gap-4 py-4">
       <div className={`relative space-x-6 font-bold`}>
         <button
           className={`${activeTab === "experience" ? "text-primaryGreen" : ""}`}
