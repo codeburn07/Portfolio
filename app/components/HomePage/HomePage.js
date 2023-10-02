@@ -20,7 +20,7 @@ const HomePage = () => {
       <div className="relative h-screen w-80">
         <div className="absolute inset-x-0 bottom-0">
           <div className="absolute top-[-30%] left-[20%]">
-            <Image className="" src="/round.gif" height={200} width={200} />
+            <Image className="" src="/round.gif" height={200} width={200} alt=""/>
           </div>
           <div className="w-[4.80644rem] h-[1.14306rem] justify-center flex items-center gap: 0.19356rem absolute top-[24%] left-[40%] bottom-20 bg-[#EFF9EF] px-[0.75488rem] py-[0.34838rem]  dark:bg-[#333] rotate-[7deg]">
             <span className=" font-[400] text-[0.58069rem] absolute font-rubic text-primaryGreen ">

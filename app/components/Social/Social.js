@@ -11,7 +11,7 @@ const Social = () => {
   return (
     <div className="h-screen flex justify-center text-center items-center flex-col ">
       <p className="font-extrabold text-md dark:text-primaryGreen">
-        LET'S CONNECT-
+        LET&apos;S CONNECT-
       </p>
       <div className="flex absolute -z-1 flex-col font-[450] text-sm items-center gap-2 max-xl:gap-0">
         <div className="pt-10">
@@ -78,7 +78,7 @@ const Social = () => {
       <div className=" relative h-screen w-80">
         <div className="absolute inset-x-0 bottom-0">
           <div className="absolute top-[-30%] left-[20%]">
-            <Image className="" src="/round.gif" height={200} width={200} />
+            <Image className="" src="/round.gif" height={200} width={200} alt=""/>
           </div>
           <Image
             className="mx-auto"
