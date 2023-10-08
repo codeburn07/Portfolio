@@ -1,0 +1,20 @@
+.sticky_parent {
+    height: 240vh;
+}
+.sticky{
+    height: 100vh;
+    position: sticky;
+    /* border: 1px solid red; */
+    top: 0rem;
+    overflow: hidden;
+}
+.scroll_section {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 240vw;
+    display: flex;
+    will-change: transform;
+    justify-content:space-between;
+    align-items:center;
+}

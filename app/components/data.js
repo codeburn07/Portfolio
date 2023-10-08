@@ -11,7 +11,7 @@ const experienceData = [
     duration: dateRange,
     company: "BharatPe",
     descShort: "A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
-    descLong:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    descLong:"A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
     exeImg: "/desc.jpg",
   },
   {
@@ -19,8 +19,8 @@ const experienceData = [
     position: "Product Designer at Postpe",
     duration: dateRange,
     company: "Postpe",
-    descShort: "lorem A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
-    descLong:"dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    descShort: "A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
+    descLong:"A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
     exeImg: "/desc.jpg",
   },
   {
@@ -29,7 +29,7 @@ const experienceData = [
     duration: dateRange,
     company: "Zillion",
     descShort: "A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
-    descLong:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",  
+    descLong:"A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",  
     exeImg: "/desc.jpg",
   },
   {
@@ -38,7 +38,7 @@ const experienceData = [
     duration: dateRange,
     company: "Trillion",
     descShort: "A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
-    descLong:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    descLong:"A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
     exeImg: "/desc.jpg",
   },
   {
@@ -47,7 +47,7 @@ const experienceData = [
     duration: dateRange,
     company: "12% Club",
     descShort: "A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
-    descLong:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    descLong:"A keen believer in business and analysis capacity is combined with design thinking. My primary goal is to provide a richly engaging and innovative user experience to the user. Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1, Always open to new opportunities to grow and test the limits and help the product to grow from 0 to 1",
     exeImg: "/desc.jpg",
   },
 ];
@@ -63,7 +63,7 @@ const workData = [
     id: 1,
     name:"lorem1",
     about:"lorem lorem1",
-    workImg: "/profile.png",
+    workImg: "/desc.jpg",
   },
   {
     id: 2,

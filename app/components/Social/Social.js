@@ -9,8 +9,8 @@ const Social = () => {
   const fill = theme === "dark" ? "white" : "black";
 
   return (
-    <div className="h-screen flex justify-center text-center items-center flex-col ">
-      <p className="font-extrabold text-md dark:text-primaryGreen">
+    <div className="h-screen w-screen flex justify-center text-center items-center flex-col ">
+      <p className="font-extrabold text-md dark:text-primaryGreen absolute top-[2.5rem] max-sm:text-[80%]">
         LET&apos;S CONNECT-
       </p>
       <div className="flex absolute -z-1 flex-col font-[450] text-sm items-center gap-2 max-xl:gap-0">
